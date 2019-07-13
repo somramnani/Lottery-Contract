@@ -1,5 +1,5 @@
 # Lottery-Contract
-Players can enter into the lottery and the smart contract will randomly pick a winner and send ether.
+This is a smart contract built in Solidity where the contracts accepts users to enter into the lottery and the contract picks a random a winner. Once the winner is picked, the contract sends ether to the winner. 
 
 ## Languages/Tools Used
 - Solidity
