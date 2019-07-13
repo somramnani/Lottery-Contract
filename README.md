@@ -6,4 +6,4 @@ Players can enter into the lottery and the smart contract will randomly pick a w
 - Mocha
 - React.js
 
- <em> *This is an exercise from the Udemy course: "Ethereum and Solidity: The Complete Developer's Guide" by Stephen Grider. </em>
+ <em> *This is an exercise from the Udemy course: "Ethereum and Solidity: The Complete Developer's Guide" by Stephen Grider.* </em>
