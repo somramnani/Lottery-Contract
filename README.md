@@ -1,4 +1,10 @@
 # Lottery-Ticket
+Players can enter into the lottery and app will randomly pick a winner and send ether.
+
+## Languages/Tools Used
+- Solidity
+- Mocha
+- React.js
 
 
 
